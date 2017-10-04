@@ -6,3 +6,5 @@ library(dygraphs)
 a <- 10
 
 b <- 20
+
+c <- "use cmd"
